@@ -1,3 +1,28 @@
 #navigation img{
-  width:50%;
+  width:10%;
+}
+#center{
+  text-align: center;
+  background-color: transperent;
+  color: black;
+  padding: 1rem;
+}
+#center h1:hover{
+     background-color: white;
+
+}
+
+
+
+#body{
+  background-image: url('../images/center.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+
+}
+#navigation li a{
+  background-color: transperent;
+  color:brown;
+  font-size: 2rem;
+
 }
